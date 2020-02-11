@@ -1,0 +1,49 @@
+#b1{
+	 display: flex;
+	 background-image: url("image/drapeau.jpg");
+	 margin-bottom: 10px;
+	 margin-top: 0px;
+}
+header{
+	
+	margin: auto;
+}
+.tet{
+	text-transform: capitalize;
+	font-size: 40px;
+	font-weight: bolder;
+	color: white;
+}
+#b2{
+	width: 600px;
+	margin: auto;
+}
+footer{
+	background-color: maroon;
+	height: 100px;
+	margin-top:80px;
+}
+.pied{
+	text-transform: capitalize;
+	font-size: 30px;
+	font-weight: bolder;
+	color: white;
+	text-align: center;
+	padding-top: 30px;
+}
+body{
+	background-image: url("image/f_etude7.jpeg");
+}
+fieldset{
+	background-image: url("image/f_etude.jpg");
+}
+#b3{
+	width: 250px;
+	height: 120px;
+	background-image: url("image/f_etude.jpg");
+	margin-top: 20px;
+	margin-right: 100px;
+}
+section{
+	margin-top: 70px;
+}
